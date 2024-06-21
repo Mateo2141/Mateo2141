@@ -17,50 +17,52 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 - 🌐 [My Portfolio](https://my-portfolio.com)
 
 ---
-
-## Technologies and Tools
+# Technologies and Tools
 
 <table>
   <tr>
+    <th>Programming Languages</th>
+    <th>Web Development</th>
+    <th>Databases</th>
+    <th>Other Technologies</th>
+  </tr>
+  <tr>
     <td>
-
-### Programming Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-
-</td>
-<td>
-
-### Web Development
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-
-</td>
-<td>
-
-### Databases
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-
-</td>
-<td>
-### Other Technologies
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat)
-
-</td>
-</tr>
+      <ul>
+        <li>![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)</li>
+        <li>![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)</li>
+        <li>![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)</li>
+        <li>![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)</li>
+        <li>![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)</li>
+        <li>![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)</li>
+        <li>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)</li>
+        <li>![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)</li>
+        <li>![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)</li>
+        <li>![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)</li>
+        <li>![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)</li>
+        <li>![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)</li>
+        <li>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)</li>
+        <li>![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)</li>
+        <li>![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)</li>
+        <li>![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat)</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ### Electronics and Robotics
