@@ -32,6 +32,7 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 
