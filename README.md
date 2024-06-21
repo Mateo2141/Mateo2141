@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 - 🎓 Student of Systems and Computing Engineering, Electronics, and Physics.
 - 🌱 Currently learning Machine Learning, Deep Learning, and advanced control systems.
 - 💼 Looking for collaboration opportunities in open-source projects and tech startups.
-- 📫 How to reach me: [mateo2141@example.com](mailto:mateo2141@example.com)
+- 📫 How to reach me: [mateo2141@example.com](mailto:a.chilitoa@uniandes.edu.co)
 - 🌐 [My Portfolio](https://my-portfolio.com)
 
 ---
