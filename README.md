@@ -8,6 +8,46 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 
 ---
 
+<table>
+  <tr>
+    <td>
+
+### Programming Languages
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
+</td>
+<td>
+
+### Web Development
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+
+</td>
+<td>
+
+### Databases
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+
+</td>
+<td>
+
+### Other Technologies
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
+- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat)
+
+</td>
+</tr>
+</table>
+
 ## About Me
 
 - 🎓 Student of Systems and Computing Engineering, Electronics, and Physics.
