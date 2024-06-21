@@ -71,28 +71,6 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 
 ---
 
-## Featured Projects
-
-### [Innovative Robotics Platform](https://github.com/Mateo2141/innovative-robotics-platform)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-> **Description:** An innovative robotics platform designed to perform autonomous navigation and object detection.
-> **Technologies:** Arduino, Raspberry Pi, ROS, OpenCV
-> ![Screenshot](path/to/screenshot1.png)
-
-### [Advanced Control Systems](https://github.com/Mateo2141/advanced-control-systems)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
-> **Description:** A comprehensive project showcasing various control systems including PID, MPC, and state-space control.
-> **Technologies:** MATLAB, Simulink
-> ![Screenshot](path/to/screenshot2.png)
-
-### [Quantum Computing Exploration](https://github.com/Mateo2141/quantum-computing-exploration)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=IBM&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-> **Description:** Exploring the fundamentals of quantum computing and implementing quantum algorithms.
-> **Technologies:** Qiskit, Python
-> ![Screenshot](path/to/screenshot3.png)
-
----
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo2141&show_icons=true&theme=radical)
