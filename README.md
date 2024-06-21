@@ -20,6 +20,10 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 
 ## Technologies and Tools
 
+<table>
+  <tr>
+    <td>
+
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -28,12 +32,19 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 - ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 
+</td>
+<td>
+
 ### Web Development
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+
+</td>
+<td>
 
 ### Databases
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
@@ -46,6 +57,9 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 - ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat)
 
+</td>
+</tr>
+</table>
 
 ### Electronics and Robotics
 - **Microcontrollers and Embedded Systems**: ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat), ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat), ESP32, STM32
