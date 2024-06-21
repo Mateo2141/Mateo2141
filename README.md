@@ -32,12 +32,9 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" alt="C++"/>
       <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java"/>
-      <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat" alt="Ruby"/>
-      <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat" alt="Go"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3"/>
       <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React"/>
       <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat" alt="Angular"/>
       <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js"/>
@@ -46,7 +43,6 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
     <td>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL"/>
       <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"/>
@@ -59,7 +55,7 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 
 ### Electronics and Robotics
 - **Microcontrollers and Embedded Systems**: ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat), ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat), ESP32, STM32
-- **Robotics**: ROS (Robot Operating System), Gazebo, SLAM (Simultaneous Localization and Mapping), Computer Vision (OpenCV)
+- **Robotics**: ROS (Robot Operating System), SLAM (Simultaneous Localization and Mapping), Computer Vision (OpenCV)
 - **Control Systems**: PID Control, Model Predictive Control (MPC), State-Space Control
 - **Optimization**: Linear Programming, Nonlinear Optimization, Genetic Algorithms
 - **Simulation Tools**: MATLAB, Simulink, LabVIEW
@@ -67,7 +63,7 @@ Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innova
 ### Physics and Advanced Technologies
 - **Quantum Computing**: Qiskit, Quantum Information Theory
 - **Machine Learning and AI**: TensorFlow, Keras, PyTorch
-- **Scientific Computing**: MATLAB, SciPy, NumPy
+- **Scientific Computing**: MATLAB, NumPy
 
 ---
 
