@@ -1,58 +1,91 @@
-# ¡Hola, soy [Tu Nombre]!
+# Hello, I'm Mateo! 👋
 
-Bienvenido a mi perfil de GitHub. Soy estudiante de Ingeniería de Sistemas y Computación, Electrónica y Física, apasionado por la tecnología y la innovación. Aquí encontrarás algunos de mis proyectos y contribuciones a la comunidad de código abierto.
+Welcome to my GitHub profile. I'm a passionate dreamer, entrepreneur, and innovator, currently studying Systems and Computing Engineering, Electronics, and Physics. Since a young age, I've been driven to change the world through various innovative projects. I love learning, reading, and participating in research and development of new projects. I believe that science and technology have the power to transform the world, so why not work together to program a better world for everyone?
 
-![Visitas a mi perfil](https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square)
-![GitHub seguidores](https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=social)
-![GitHub estrellas](https://img.shields.io/github/stars/tu-usuario?label=Estrellas&style=social)
-
----
-
-## Sobre Mí
-
-- 🎓 Estudiante de Ingeniería de Sistemas y Computación, Electrónica y Física.
-- 🌱 Actualmente aprendiendo Machine Learning y Deep Learning.
-- 💼 Buscando oportunidades de colaboración en proyectos de código abierto y startups tecnológicas.
-- 📫 Contacto: [tu-email@dominio.com](mailto:tu-email@dominio.com)
-- 🌐 [Mi Portafolio](https://tu-sitio.com)
-
-## Tecnologías y Herramientas
-
-- **Lenguajes de Programación**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-- **Desarrollo Web**: ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- **Bases de Datos**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-- **Otras Tecnologías**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Mateo2141&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Mateo2141?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Mateo2141?label=Stars&style=social)
 
 ---
 
-## Proyectos Destacados
+## About Me
 
-### [Proyecto 1](https://github.com/tu-usuario/proyecto-1)
-![React](https://img.shields.io/badge/React-18A303?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-18A303?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-> **Descripción:** Una breve descripción del proyecto, destacando sus funcionalidades y tecnologías usadas.
-> **Tecnologías:** React, Node.js, MongoDB
-> ![Captura de Pantalla](ruta/a/captura1.png)
-
-### [Proyecto 2](https://github.com/tu-usuario/proyecto-2)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-> **Descripción:** Otra descripción breve de otro proyecto importante.
-> **Tecnologías:** Python, TensorFlow
-> ![Captura de Pantalla](ruta/a/captura2.png)
+- 🎓 Student of Systems and Computing Engineering, Electronics, and Physics.
+- 🌱 Currently learning Machine Learning, Deep Learning, and advanced control systems.
+- 💼 Looking for collaboration opportunities in open-source projects and tech startups.
+- 📫 How to reach me: [mateo2141@example.com](mailto:mateo2141@example.com)
+- 🌐 [My Portfolio](https://my-portfolio.com)
 
 ---
 
-## Estadísticas de GitHub
+## Technologies and Tools
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical)
+### Programming Languages
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+
+### Web Development
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+
+### Databases
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+
+### Other Technologies
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
+- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat)
+
+### Electronics and Robotics
+- **Microcontrollers and Embedded Systems**: ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat), ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=flat), ESP32, STM32
+- **Robotics**: ROS (Robot Operating System), Gazebo, SLAM (Simultaneous Localization and Mapping), Computer Vision (OpenCV)
+- **Control Systems**: PID Control, Model Predictive Control (MPC), State-Space Control
+- **Optimization**: Linear Programming, Nonlinear Optimization, Genetic Algorithms
+- **Simulation Tools**: MATLAB, Simulink, LabVIEW
+
+### Physics and Advanced Technologies
+- **Quantum Computing**: Qiskit, Quantum Information Theory
+- **Machine Learning and AI**: TensorFlow, Keras, PyTorch
+- **Scientific Computing**: MATLAB, SciPy, NumPy
 
 ---
 
-## Contribuciones
+## Featured Projects
 
-Las contribuciones son bienvenidas. Por favor, sigue los lineamientos en el archivo `CONTRIBUTING.md`.
+### [Innovative Robotics Platform](https://github.com/Mateo2141/innovative-robotics-platform)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+> **Description:** An innovative robotics platform designed to perform autonomous navigation and object detection.
+> **Technologies:** Arduino, Raspberry Pi, ROS, OpenCV
+> ![Screenshot](path/to/screenshot1.png)
 
-## Licencia
+### [Advanced Control Systems](https://github.com/Mateo2141/advanced-control-systems)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
+> **Description:** A comprehensive project showcasing various control systems including PID, MPC, and state-space control.
+> **Technologies:** MATLAB, Simulink
+> ![Screenshot](path/to/screenshot2.png)
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+### [Quantum Computing Exploration](https://github.com/Mateo2141/quantum-computing-exploration)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=IBM&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+> **Description:** Exploring the fundamentals of quantum computing and implementing quantum algorithms.
+> **Technologies:** Qiskit, Python
+> ![Screenshot](path/to/screenshot3.png)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo2141&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo2141&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateo2141&theme=radical)
+
+---
